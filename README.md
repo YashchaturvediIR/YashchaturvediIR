@@ -45,35 +45,27 @@
 
 - **TOP5 FLICKS** – Machine Learning Model for Predictions
   - Python, Streamlit Framework, TMDB APIs
-  - [GitHub](https://github.com/yourusername/top5-flicks)
+  - [GitHub](https://github.com/YashchaturvediIR/top5flicks)
   
 - **DSLEARNING_WEB** – Algorithm Visualizer
   - JavaScript, HTML, Bootstrap, Figma, APIs
-  - [GitHub](https://github.com/yourusername/dslearning_web) | [Live URL](#)
+  - [GitHub](https://github.com/YashchaturvediIR/DSLearning) | [Live URL](https://yashchaturvediir.github.io/DSLearning/)
   
 - **MYMESSAGINGAPP** – Android Development
   - Java, Android Studio, APIs
-  - [GitHub](https://github.com/yourusername/mymessagingapp)
+  - [GitHub](https://github.com/YashchaturvediIR/MyMessagingApp-Android-)
   
 - **WEATHER FORECAST** – React JS and APIs
   - React JS, OpenWeather API
-  - [GitHub](https://github.com/yourusername/weather-forecast) | [Live URL](#)
-  
-- **TODO APP** – React JS and Local Storage
-  - React JS, Figma UI
-  - [GitHub](https://github.com/yourusername/todo-app) | [Live URL](#)
-  
-- **TIC-TAC-TOE GAME** – Frontend
-  - CSS, JavaScript, HTML
-  - [GitHub](https://github.com/yourusername/tic-tac-toe-game) | [Live URL](#)
+  - [GitHub](https://github.com/YashchaturvediIR/weather) | [Live URL](https://yashchaturvediir.github.io/weather/)
   
 - **REST_API** – CRUD Operation Support
   - Node JS, Express JS, MongoDB
-  - [GitHub](https://github.com/yourusername/rest_api)
+  - [GitHub](https://github.com/YashchaturvediIR/Rest_API)
   
 - **PERSONAL BLOGGING WEBSITE** – Wordpress
   - Wordpress, PHP, MySQL, WP Plugins
-  - [Live URL](#)
+  - [Live URL](yashchaturvedi.great-site.net)
 
 ### 🏆 Certifications
 
